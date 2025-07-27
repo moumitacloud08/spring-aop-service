@@ -30,5 +30,6 @@
 	</dependencies>
   <modules>
   	<module>spring-aop-pointcutexp-service</module>
+  	<module>spring-aop-aspectj-basic-example-service</module>
   </modules>
 </project>
